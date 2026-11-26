@@ -1,0 +1,6 @@
+Parameter,Value,Unit
+Edge Capacity,65,tasks/interval
+Cloud Capacity,150,tasks/interval
+Network Latency,20,ms
+Edge Processing Time,5,ms/task
+Cloud Processing Time,3,ms/task

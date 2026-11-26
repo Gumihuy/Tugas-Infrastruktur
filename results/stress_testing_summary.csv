@@ -1,0 +1,16 @@
+Scenario,Method,Average Response Time (ms),Completion Rate (%),Total Dropped Tasks,Total Network Traffic (tasks)
+Combined Stress,Adaptive Hybrid,86.95555430036325,82.69405285032566,186640,537121
+Combined Stress,Cloud-Only,103.0,75.34941639620426,255069,568692
+Combined Stress,Conventional Hybrid,86.95555430036325,82.69405285032566,186640,537121
+High Latency,Adaptive Hybrid,19.05947039665017,100.0,0,51049
+High Latency,Cloud-Only,103.0,100.0,0,274587
+High Latency,Conventional Hybrid,54.373619751984094,100.0,0,138209
+High Workload,Adaptive Hybrid,16.031864368851963,91.34528453746101,99322,464545
+High Workload,Cloud-Only,23.0,75.34941639620426,255069,568692
+High Workload,Conventional Hybrid,16.40785579308163,91.34528453746101,99322,471799
+Limited Edge,Adaptive Hybrid,15.537086531854543,100.0,0,174788
+Limited Edge,Cloud-Only,23.0,100.0,0,274587
+Limited Edge,Conventional Hybrid,16.24677841491439,100.0,0,180045
+Normal,Adaptive Hybrid,7.582351705507174,100.0,0,51049
+Normal,Cloud-Only,23.0,100.0,0,274587
+Normal,Conventional Hybrid,14.06862403607871,100.0,0,138209
