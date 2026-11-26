@@ -41,6 +41,7 @@ Four workload patterns are used:
 ## 6. Evaluation Metrics
 
 Prediction evaluation:
+
 - Root Mean Squared Error (RMSE)
 - Mean Absolute Error (MAE)
 - Training Time
@@ -48,6 +49,7 @@ Prediction evaluation:
 - Throughput
 
 Simulation evaluation:
+
 - Average Response Time
 - Task Completion Rate
 - Dropped Tasks
@@ -59,11 +61,10 @@ The experiments were conducted using Google Colab with Python and TensorFlow. Th
 
 ## 8. Repository Structure
 
-- `notebooks/`: Experimental Jupyter notebooks.
-- `datasets/`: Workload datasets.
-- `results/`: Experimental results and figures.
-- `src/`: Supporting Python source code.
-- `docs/`: Research documentation.
+- `paper2/`: Research notebooks, datasets, and experiment code related to Paper 2.
+- `ppt_images/`: Images, diagrams, and visual materials used in presentations.
+- `grafik_eksperimen/`: Experimental graphs and performance visualizations.
+- `results/`: Experimental results, evaluation metrics, CSV files, and simulation outputs.
 
 ## 9. Reproducibility
 
